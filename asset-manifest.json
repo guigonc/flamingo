@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/flamingo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/flamingo/static/js/main.e077b845.chunk.js",
+    "main.js.map": "/flamingo/static/js/main.e077b845.chunk.js.map",
+    "runtime-main.js": "/flamingo/static/js/runtime-main.81c2f1a4.js",
+    "runtime-main.js.map": "/flamingo/static/js/runtime-main.81c2f1a4.js.map",
+    "static/css/2.91baf148.chunk.css": "/flamingo/static/css/2.91baf148.chunk.css",
+    "static/js/2.3fd3df34.chunk.js": "/flamingo/static/js/2.3fd3df34.chunk.js",
+    "static/js/2.3fd3df34.chunk.js.map": "/flamingo/static/js/2.3fd3df34.chunk.js.map",
+    "index.html": "/flamingo/index.html",
+    "precache-manifest.31035768d6a75154b8e56deed9698060.js": "/flamingo/precache-manifest.31035768d6a75154b8e56deed9698060.js",
+    "service-worker.js": "/flamingo/service-worker.js",
+    "static/css/2.91baf148.chunk.css.map": "/flamingo/static/css/2.91baf148.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/flamingo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3fd3df34.chunk.js.LICENSE.txt": "/flamingo/static/js/2.3fd3df34.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/flamingo/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81c2f1a4.js",
+    "static/css/2.91baf148.chunk.css",
+    "static/js/2.3fd3df34.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e077b845.chunk.js"
+  ]
+}
