@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9694f14ea5ef80913ae951339647b028",
+    "revision": "e0a4dfed5cc8cd5b5528e00bf8cc19ac",
     "url": "/flamingo/index.html"
   },
   {

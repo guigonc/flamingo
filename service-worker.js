@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/flamingo/precache-manifest.31035768d6a75154b8e56deed9698060.js"
+  "/flamingo/precache-manifest.062c187444fc33d355133b4e5dd3ac8a.js"
 );
 
 self.addEventListener('message', (event) => {
